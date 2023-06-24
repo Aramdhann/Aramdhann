@@ -1,9 +1,5 @@
-### Hi there 👋
-**Aramdhann/Aramdhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
-[![](https://visitcount.itsvg.in/api?id=Aramdhann&icon=3&color=12)](https://visitcount.itsvg.in)
-
-# 💫 About Me:
+![](https://komarev.com/ghpvc/?username=Aramdhann&style=flat)
+# 💫 About Me:                                                                                                                                                                                          
 🔭 I’m currently freshgraduate from bachelor's degree telecommunication engineering<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning AI & Go Programming Language (Golang)<br>💬 Ask me about fullstack development<br>⚡ Fun fact - I like UI design and slicing it
 
 ## 🌐 Socials:
