@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=2FB201&width=500&lines=Hi+%F0%9F%91%8B+I'm+Moch.+Raditya+Aulya+Aramdhan)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=Aramdhann&style=flat)
 # 💫 About Me:                                                                                                                                                                                          
 🔭 I’m currently freshgraduate from bachelor's degree telecommunication engineering<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning AI & Go Programming Language (Golang)<br>💬 Ask me about fullstack development<br>⚡ Fun fact - I like UI design and slicing it
