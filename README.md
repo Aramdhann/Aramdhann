@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Aramdhann&style=flat)
 # 💫 About Me:                                                                                                                                                                                          
-🔭 I’m Fullstack Developer in PT. Artha Permata Makmur and Front End Developer in Kamar Pelajar<br>👨🏻‍🎓 Freshgraduate from Telecommunication Engineering at Politeknik Elektronika Negeri Surabaya (PENS)<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning Javascript, Laravel, Vue, and Go Programming Language (Golang)<br>💬 Ask me about fullstack development<br>⚡ Fun fact - I like UI design and slicing it
+🔭 I’m Fullstack Developer<br>👨🏻‍🎓 Graduated from Telecommunication Engineering at Politeknik Elektronika Negeri Surabaya (PENS)<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning Javascript, Laravel, Vue, and Go Programming Language (Golang)<br>💬 Ask me about fullstack development<br>⚡ Fun fact - I like UI design and slicing it
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aramdhann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochraditya) 
